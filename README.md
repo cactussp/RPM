@@ -1,3 +1,3 @@
 # RPM
-is zip a recurs pack carpenter craft
-compres from https://www.planetminecraft.com/data-pack/carpenter-craft-4498047/
+is zip a recurs pack Furniture Datapack by Manakun
+compres from https://www.curseforge.com/minecraft/customization/furniture-datapack-by-manakun
